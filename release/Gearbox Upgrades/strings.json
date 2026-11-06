@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "fallback_language": "EN",
+  "languages": {
+    "EN": {
+      "Upgrades": {
+        "65301": "1-Speed Gearbox",
+        "65321": "A gearbox with 1 forward gear, halfway between your car's first and top gears. It can be tuned afterwards.",
+        "65302": "2-Speed Gearbox",
+        "65322": "A gearbox with 2 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65303": "3-Speed Gearbox",
+        "65323": "A gearbox with 3 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65304": "4-Speed Gearbox",
+        "65324": "A gearbox with 4 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65305": "5-Speed Gearbox",
+        "65325": "A gearbox with 5 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65306": "6-Speed Gearbox",
+        "65326": "A gearbox with 6 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65307": "7-Speed Gearbox",
+        "65327": "A gearbox with 7 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards.",
+        "65308": "8-Speed Gearbox",
+        "65328": "A gearbox with 8 forward gears. First and top stay where your car has them, and the gears between close up toward the top. With more gears than stock, it shifts quicker. Every ratio can be tuned afterwards."
+      }
+    }
+  }
+}

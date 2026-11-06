@@ -1,0 +1,11 @@
+{
+  "format_version": 1,
+  "id": "gearbox-upgrades",
+  "name": "Gearbox Upgrades",
+  "version": "1.0.0",
+  "description": "Adds gearboxes with 1 to 8 forward gears to every car's Transmission upgrades.",
+  "database": "database.json",
+  "media": null,
+  "dependencies": [],
+  "strings": "strings.json"
+}
